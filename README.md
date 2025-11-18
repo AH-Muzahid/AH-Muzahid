@@ -1,3 +1,7 @@
+<img width="851" height="315" alt="Black and Gray Modern Personal Digital Marketing Facebook Cover" src="https://github.com/user-attachments/assets/e6925d6d-df68-4e7b-a97b-2daad1750894" />
+
+
+
 <h1 align="center">Hi 👋, I'm Ali Hasan Muzahid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
