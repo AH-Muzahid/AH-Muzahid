@@ -1,0 +1,17 @@
+<svg width="851" height="320" viewBox="0 0 851 320" xmlns="http://www.w3.org/2000/svg">
+  <image 
+    href="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=320&amp;section=header&amp;animation=fadeIn&amp;fontColor=ffffff&amp;descAlign=67&amp;descSize=14&amp;descPadding=8" 
+    width="100%" 
+    height="320" 
+    preserveAspectRatio="none"
+  />
+
+  <image 
+    x="50%" 
+    y="40%" 
+    transform="translate(-300, 0)"
+    href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=ffffff&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full-Stack+Software+Engineer;MERN%2C+MEVN+%26+PERN+Specialist;Next.js+%26+Nest.js+Architect;Open+Source+Contributor" 
+    width="600" 
+    height="50" 
+  />
+</svg>
