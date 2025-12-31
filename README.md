@@ -1,20 +1,23 @@
 <div align="center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi%20there!%20I'm%20Muzahid&reversal=true&fontSize=45&fontAlign=50&fontAlignY=33&animation=twinkling&desc=Frontend%20Web%20Developer&descSize=27&descAlign=60&descAlignY=50" alt="Header" width="100%"/>
 <br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Delius&weight=500&size=30&duration=4000&pause=200&color=ff5779&width=435&lines=MERN+Stack+Developer;Front-end+Specialist;Tech+Enthusiast" 
+</div>
+
+<div align="center" margin="auto" >
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Delius&weight=600&size=30&duration=4000&pause=200&color=ff5779&width=435&lines=MERN+Stack+Developer;Front-end+Specialist;Tech+Enthusiast" 
   alt="Typing SVG" />
 </a>
-<p align="center">
+<p >
     <a href="mailto:ahmuzahid40@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/ali-hasan-muzahid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/AH-Muzahid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://www.facebook.com/ah.muzahid.2025/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
     <!-- <a href="https://www.instagram.com/ashik.ahmed72" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> -->
 </p>
+</div>
   
 <br>
-</div>
 
 <!-- <img align="center" width="100%" height="315" alt="Black and Gray Modern Personal Digital Marketing Facebook Cover" src="https://github.com/user-attachments/assets/e6925d6d-df68-4e7b-a97b-2daad1750894" /> -->
 
