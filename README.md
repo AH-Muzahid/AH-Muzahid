@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there!%20I'm%20Muzahid&reversal=true&fontSize=50&fontAlign=50&fontAlignY=33&animation=twinkling&desc=Frontend%20Web%20Developer&descSize=30&descAlign=60&descAlignY=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi%20there!%20I'm%20Muzahid&reversal=true&fontSize=45&fontAlign=50&fontAlignY=33&animation=twinkling&desc=Frontend%20Web%20Developer&descSize=27&descAlign=60&descAlignY=50" alt="Header" width="100%"/>
 <br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Delius&weight=500&size=30&duration=4000&pause=200&color=ff5779&width=435&lines=MERN+Stack+Developer;Front-end+Specialist;Tech+Enthusiast" 
@@ -107,19 +107,31 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div> -->
 
-<h2 align="center">🎯 2025 Learning Roadmap</h2>
+<h2 align="center">🎯 2026 Learning Roadmap</h2>
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td align="center" width="200"><strong>Advanced Backend</strong></td>
-      <td align="center" width="200"><strong>AI & Data</strong></td>
-      <td align="center" width="200"><strong>Performance</strong></td>
+      <td align="center" width="200"><strong>🚀 Advanced Web Dev</strong></td>
+      <td align="center" width="200"><strong>🌍 WebGIS & Data</strong></td>
+      <td align="center" width="200"><strong>⚙️ DevOps & Cloud</strong></td>
     </tr>
     <tr>
-      <td align="center">Microservices with <br/> 🦀 <b>Rust</b></td>
-      <td align="center">Model Integration <br/> 🧠 <b>TensorFlow</b></td>
-      <td align="center">Cloud Scaling <br/> ☁️ <b>AWS / Redis</b></td>
+      <td align="center">
+        Mastering <br/>
+        🟦 <b>TypeScript</b> <br/>
+        & Next.js 15
+      </td>
+      <td align="center">
+        Mapping with <br/>
+        🗺️ <b>Leaflet / Mapbox</b> <br/>
+        & Spatial SQL
+      </td>
+      <td align="center">
+        Deployment <br/>
+        🐳 <b>Docker & CI/CD</b> <br/>
+        & AWS/Vercel
+      </td>
     </tr>
   </table>
 </div>
@@ -127,5 +139,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer" width="100%"/>
 </div>
