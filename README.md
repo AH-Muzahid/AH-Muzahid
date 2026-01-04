@@ -119,12 +119,14 @@ const currentlyWorkingOn = {
   <img src="https://github-readme-stats.vercel.app/api?username=AH-Muzahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="AH-Muzahid's Stats" />
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AH-Muzahid&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=AH-Muzahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" alt="Top Languages" />
 </p> -->
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=AH-Muzahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AH-Muzahid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AH-Muzahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+-->
+
 
 <!-- <div align="center">
   <h3>🛠️ Tech Stack</h3>
@@ -135,19 +137,23 @@ const currentlyWorkingOn = {
 </div> -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AH-Muzahid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AH-Muzahid&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
 </div>
 
 <div align="center">
-  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AH-Muzahid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" /> -->
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AH-Muzahid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" /> 
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AH-Muzahid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F" />
 </div>
-
+-->
 <div align="center"> 
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=AH-Muzahid&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" /> -->
-</div>
+</div> 
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Ah-Muzahid&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 
 <div align="center">
